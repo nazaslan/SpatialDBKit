@@ -18,5 +18,4 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.source_files = "SpatialDBKit/*.{h,m}"
-s.public_header_files = "SpatialDBKit/*.h"
 end
